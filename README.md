@@ -1,2 +1,2 @@
 # terraform-cloud-demo1
-Terraform Cloud Demo1
+HashiCorp - Terraform Cloud Demo1
